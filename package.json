@@ -1,0 +1,13 @@
+{
+   "name": "objectsvalues",
+   "version": "1.0.0",
+   "description": "testing out stuff",
+   "main": "keys-values-entries.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "run": "node keys-values-entries.js",
+      "run2": "node test2.js"
+   },
+   "author": "",
+   "license": "ISC"
+}
